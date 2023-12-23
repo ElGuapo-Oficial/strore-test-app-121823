@@ -1,0 +1,19 @@
+.products {
+    background-color: green;
+    max-width: 1600px;
+    padding: 20px 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.products-list {
+    display: flex;
+}
+
+.products-list div {
+    max-width: 300px;
+    margin: 10px;
+    text-align: center;
+}
